@@ -13,6 +13,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/lustlee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="lustlee" /></a><a href="https://ko-fi.com/lustlee"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="lustlee" /></a></p><br><br>
 
-<p><img align="left" style="margin:10px" src="https://github-readme-stats.vercel.app/api/top-langs?username=lustlee&show_icons=true&locale=en&layout=compact" alt="lustlee" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lustlee&show_icons=true&locale=en&layout=compact" alt="lustlee" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lustlee&show_icons=true&locale=en" alt="lustlee" /></p>
