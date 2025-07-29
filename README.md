@@ -1,12 +1,11 @@
+<img src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433" width="1200"/>
+
 <h1 align="center">Hi 👋, I'm Ramazan</h1>
 <h3 align="center">A passionate Frontend Developer (Flutter & Web) from Kyrgyzstan 👨‍💻</h3>
----------------------------------------------------------------------
 
 * 🌍  I'm based in Bishkek
 * ✉️  You can contact me at [r.tokoshev@gmail.com](mailto:r.tokoshev@gmail.com)
 
-<a href="https://www.github.com/lustlee" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/lustlee?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
